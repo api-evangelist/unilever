@@ -22,7 +22,7 @@ tags:
 description: 'A British-Dutch multinational consumer goods company with a portfolio spanning food, personal care, and household brands. Owns over 400 brands including Dove, Ben & Jerry''s, Hellmann''s, and Vaseline sold in 190 countries.'
 created: '2026-05-05'
 modified: '2026-05-05'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis: []
 common:
   - type: DomainSecurity
