@@ -17,6 +17,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/unilever.p
 tags:
   - Consumer Products
   - Personal Care
+  - Food and Beverage
+  - Household Products
+tags_raw:
+  - Consumer Products
+  - Personal Care
   - Food & Beverage
   - Household Products
 description: 'A British-Dutch multinational consumer goods company with a portfolio spanning food, personal care, and household brands. Owns over 400 brands including Dove, Ben & Jerry''s, Hellmann''s, and Vaseline sold in 190 countries.'
